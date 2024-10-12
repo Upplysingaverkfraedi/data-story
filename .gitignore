@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Envrionment variables, that contains sensitive information, such as API keys, passwords, etc.
+.env
+
+# Common default files in different editors, IDEs, and OSs
+.DS_Store
+.vscode/
+.idea/
