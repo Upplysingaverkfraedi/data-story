@@ -41,9 +41,8 @@ að bætast nýr einstaklingur við teymið):
 - **Game of Thrones**.
     - Hér notið þið _PostgreSQL_ gagnagrunnstenginguna sem við unnum með í `postgresql` verkefninu.
 
-Aðeins tvö teymi mega vinna að sama efni. Skráning á umfjöllunarefni fer fram í mánudagstíma þann
-
-14. október á töflu, þar sem fyrstur kemur fyrstur fær.
+Aðeins tvö teymi mega vinna að sama efni. Skráning á umfjöllunarefni fer fram í mánudagstíma 
+þann 14. október á töflu, þar sem fyrstur kemur fyrstur fær.
 
 ## Skil og kynning
 
@@ -78,7 +77,7 @@ draga fram það sem þið teljið áhugaverðast við gögnin og hvernig hægt 
 
 - **TL;DR** – Stutt útskýring á verkefninu ykkar og lykilniðurstöðum (til að hjálpa öðrum að skilja
   verkefnið, og hvetja þau til kynna sér efnið frekar).
-- **Uppsetning** - Hverig er repoið sett upp, t.d. lýsa möppum og mikilvægum skrám stuttlega.
+- **Strúktur** - Hverig er repoið sett upp, t.d. lýsa möppum og mikilvægum skrám stuttlega.
 - **Keyrsluuppsetning** – Hvernig er hægt að keyra kóðann ykkar á öðrum tölvum. Passið að þetta sé
   skýrt og auðvelt að fylgja eftir, og það sé ljóst hvernig eigi að nálgast viðkvæmar upplýsingar 
   (einsog lykilorð og notendanöfn) ef við á.
